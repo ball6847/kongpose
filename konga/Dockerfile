@@ -1,1 +1,1 @@
-FROM pantsel/konga:latest
+FROM pantsel/konga:0.14.7
